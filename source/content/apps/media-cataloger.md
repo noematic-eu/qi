@@ -1,0 +1,71 @@
+---
+title: Media Cataloger
+subtitle: Search and Analyse your File Structure Offline
+pubDate: 2025-01-01
+isPaid: true
+platforms:
+  - macOS
+  - iOS
+  - android
+  - Linux
+  - Windows
+#appStoreId: 6465745322
+---
+
+> Data is the oil of the 21st century, and analytics is the combustion engine.
+
+— Peter Sondergaard
+
+### Features
+
+Media Cataloger list your medias and devices in an offline and local catalog.
+
+#### Local and Offline Disk Structure Access
+
+Even when a disk isn’t connected, you can view its structure, browse its contents, and access detailed file information like modification dates and sizes.
+
+#### Instant Disk Overview
+
+Quickly check how much free space is available on each drive at a glance, including local and remote disks.
+
+#### Visualize Disk Space Consumption
+
+See which folders and files take up the most space with intuitive visualizations showing the percentage of disk usage, so you can make informed decisions on what to keep or remove.
+
+#### File search
+
+Easily locate files by extension or name across all your cataloged drives—whether they are connected or not.
+
+#### Catalog disks from anywhere with SSH
+
+Using the Secure Shell protocol, Media Cataloger is able to catalog medias from remote computers.
+
+#### Duplicate File Detection
+
+Effortlessly find duplicate files within the same disk or across multiple disks, helping you to save space and organize files better.
+
+#### Customizable Duplicate Lists
+
+Organize duplicates by subject, owner, or any criteria you choose.
+
+#### Unique File Finder
+
+Identify files that exist only on one disk and are not duplicated elsewhere.
+
+#### Remove Unnecessary Duplicates
+
+Free up disk space by easily removing redundant copies of files.
+
+#### Optimized for Multi-Processors
+
+Enjoy faster performance with native multi-processor support, allowing you to manage large file catalogs with ease.
+
+#### Cross-Platform Compatibility
+
+Whether you're using Windows, macOS, or Linux, event iOS and android, <em>Media Cataloger</em> works seamlessly across all major platforms.
+
+### Frequently Asked Questions {#faq}
+
+#### Is it open source?
+
+Some parts.
