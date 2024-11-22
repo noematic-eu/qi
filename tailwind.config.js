@@ -11,15 +11,15 @@ const config = {
 				secondary: colors.red,
 			},
 			fontFamily: {
-			  sans: ['Montserrat', 'Graphik', 'sans-serif'],
-			  serif: ['Merriweather', 'serif'],
-			}
+				sans: ['Montserrat', 'Graphik', 'sans-serif'],
+				serif: ['Merriweather', 'serif'],
+			},
 		},
 	},
-    fontFamily: {
-      sans: ['Montserrat', 'Graphik', 'sans-serif'],
-      serif: ['Merriweather', 'serif'],
-    },
+	fontFamily: {
+		sans: ['Montserrat', 'Graphik', 'sans-serif'],
+		serif: ['Merriweather', 'serif'],
+	},
 	plugins: [
 		typography,
 		forms,
