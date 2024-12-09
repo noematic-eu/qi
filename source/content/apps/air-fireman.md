@@ -24,6 +24,8 @@ Save the forest from fire with a plane. Wind direction and force has an impact i
 
 As the speed of the plane and the speed of the wind will spray water in a larger surface, it is more precise to fly and through water against the wind.
 
+<a href="https://app.youform.com/forms/4fqdjajy" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Stay in the Loop</a>
+
 ### Frequently Asked Questions {#faq}
 
 #### Do the game have a map generation.
