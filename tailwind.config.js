@@ -17,7 +17,7 @@ const config = {
 		},
 	},
 	fontFamily: {
-		sans: ['Montserrat', 'Graphik', 'sans-serif'],
+		sans: ['Montserrat', 'sans-serif'],
 		serif: ['Merriweather', 'serif'],
 	},
 	plugins: [

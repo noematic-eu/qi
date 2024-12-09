@@ -1,21 +1,11 @@
 ---
-/// import {ViewTransitions} from 'astro:transitions';
-import {AstroSeo} from '@astrolib/seo';
-import {SITE} from '~/config.mjs';
 
 const {
-	title = SITE.name,
 	description = '',
 	image: _image,
-	noindex = false,
-	nofollow = false,
-	ogTitle = title,
-	ogType = 'website',
 	appStoreId,
 } = Astro.props;
 
-const image = _image && new URL(_image, Astro.site);
-const canonicalURL = new URL(Astro.url.pathname.replace(/\.html$/, ''), Astro.site);
 ---
 
 <meta charset="utf-8">
