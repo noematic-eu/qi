@@ -40,24 +40,3 @@ const canonicalURL = new URL(Astro.url.pathname.replace(/\.html$/, ''), Astro.si
 <link rel="alternate" type="application/rss+xml" title="Qi — New Repos" href="/rss-repos.xml">
 <link rel="icon" href="apple-touch-icon.webp">
 <script data-goatcounter="https://qi-noematic-eu.goatcounter.com/count" async src="/count.js"></script>
-
-<!-- <ViewTransitions/> -->
-
-<AstroSeo
-	title={title}
-	description={description}
-	canonical={canonicalURL.toString()}
-	noindex={noindex}
-	nofollow={nofollow}
-	openGraph={{
-		title: ogTitle,
-		description,
-		url: canonicalURL.toString(),
-		type: ogType,
-		images: image ? [
-			{
-				url: image.toString(),
-			},
-		] : undefined,
-	}}
-/>
