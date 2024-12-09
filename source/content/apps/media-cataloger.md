@@ -64,8 +64,12 @@ Enjoy faster performance with native multi-processor support, allowing you to ma
 
 Whether you're using Windows, macOS, or Linux, event iOS and android, <em>Media Cataloger</em> works seamlessly across all major platforms.
 
+
+<a href="https://app.youform.com/forms/18nyuesk" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Stay in the Loop</a>
+
 ### Frequently Asked Questions {#faq}
 
 #### Is it open source?
 
 Some parts.
+
