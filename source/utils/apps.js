@@ -45,7 +45,7 @@ const normalizeApps = async app => {
 
 	videos = videos.map(video => video.default.replace(/^\/public/, ''));
 
-	let screenshots = await import.meta.glob('~/../public/apps/*/screenshot*.{png,jpg}', {eager: false});
+	let screenshots = await import.meta.glob('~/../public/apps/*/screenshot*.{webp,png,jpg}', {eager: false});
 
 	screenshots = await Promise.all(
 		Object.entries(screenshots)
@@ -67,7 +67,7 @@ const normalizeApps = async app => {
 		slug: data.slug ?? slug,
 		url: data.redirectUrl ?? `/${slug}`,
 		isRedirect: data.redirectUrl !== undefined,
-		iconUrl: `/apps/${slug}/icon.png`,
+		iconUrl: `/apps/${slug}/icon.webp`,
 		// We can use `forceHasiOSAppIcon` for both true/false override.
 		hasIOSAppIcon: data.forceHasIosAppIcon ?? ((data.platforms.includes('iOS') || data.platforms.includes('watchOS')) && !data.platforms.includes('macOS')),
 		isNew: pubDate > date30DaysAgo,
