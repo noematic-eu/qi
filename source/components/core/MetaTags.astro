@@ -1,16 +1,27 @@
 ---
+import {SITE} from '~/config.mjs';
 
 const {
+	title = SITE.name,
 	description = '',
 	image: _image,
 	appStoreId,
 } = Astro.props;
 
+const image = _image && new URL(_image, Astro.site);
+const canonicalURL = new URL(Astro.url.pathname.replace(/\.html$/, ''), Astro.site);
+
 ---
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title}</title>
+<meta name="description" content={description}>
 <meta name="author" content="Noematic">
+<meta property="og:title" content={title} />
+<meta property="og:type" content="website" />
+<meta property="og:url" content={canonicalURL.toString()} />
+<meta property="og:image" content={_image && image.toString()} />
 <meta name="twitter:site" content="@noematic_eu">
 <meta name="twitter:creator" content="@noematic_eu">
 <meta name="twitter:description" content={description}>
@@ -29,4 +40,5 @@ const {
 <link rel="alternate" type="application/rss+xml" title="Qi — New Apps" href="/rss-apps.xml">
 <link rel="alternate" type="application/rss+xml" title="Qi — New Repos" href="/rss-repos.xml">
 <link rel="icon" href="apple-touch-icon.webp">
+
 <script data-goatcounter="https://qi-noematic-eu.goatcounter.com/count" async src="/count.js"></script>

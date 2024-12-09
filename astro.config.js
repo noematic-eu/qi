@@ -4,7 +4,6 @@ import {defineConfig} from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 import remarkCustomHeaderId from 'remark-custom-header-id';
-/// import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import {SITE} from './source/config.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -14,6 +13,8 @@ export default defineConfig({
 	site: SITE.origin,
 	srcDir: './source',
 	output: 'static',
+	compressHTML: true,
+	prefetch: true,
 	trailingSlash: 'never',
 	build: {
 		format: 'file',
@@ -43,6 +44,10 @@ export default defineConfig({
 			alias: {
 				'~': path.resolve(__dirname, './source'),
 			},
+		},
+		css: {
+			devSourcemap: true,
+			transformer: 'postcss',
 		},
 	},
 });
