@@ -18,6 +18,10 @@ Save the forest from fire with a plane. Wind direction and force has an impact i
 
 > Our office is the sky, and the flames are our challenge.
 
+<iframe src="https://airfireman.noematic.eu" width="1024" height="768"></iframe>
+
+<a href="https://airfireman.noematic.eu" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Open in a new tab for fullscreen</a>
+
 ### Tips
 
 #### Through water against the wind
