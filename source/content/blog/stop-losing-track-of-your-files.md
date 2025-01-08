@@ -97,6 +97,6 @@ Use these reviews to assess if your naming conventions, file structures, and sto
 
 How many drives do you have? How do you find a file? How do you efficiently analyze content?
 
-Noematic is working on it: [MediaCataloger](https://qi.noematic.eu/media-cataloger) Follow us!
+Noematic is working on it: [MediaCataloger](https://qi.noematic.eu/media-cataloger) [Follow us!](https://x.com/Noematic_eu)
 
 [Posted on X](https://x.com/Noematic_eu/status/1866683966113161603)
