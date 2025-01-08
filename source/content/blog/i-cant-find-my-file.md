@@ -35,6 +35,6 @@ MediaCataloger's interface is designed to be user-friendly, making file organiza
 
 By allowing for automatic backups and sharing of file collections, MediaCataloger ensures that you never lose your files and that they can be easily located or shared, thus addressing the issue of file availability and location.
 
-Therefore, [MediaCataloger](/media-cataloger) solves "4 whys" by providing solutions for each identified "why," turning a situation of disorganization into effective file management. This saves time, improves productivity, and reduces the stress associated with searching for lost documents or media.
+Therefore, [MediaCataloger](/media-cataloger) solves "5 whys" by providing solutions for each identified "why," turning a situation of disorganization into effective file management. This saves time, improves productivity, and reduces the stress associated with searching for lost documents or media.
 
 <a href="https://app.youform.com/forms/18nyuesk" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Sign up today to receive the availability date for this tool!</a>
