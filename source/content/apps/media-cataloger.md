@@ -1,7 +1,7 @@
 ---
 title: Media Cataloger
 subtitle: Search and Analyse your File Structure Offline
-pubDate: 2025-01-01
+pubDate: 2025-02-20
 isPaid: true
 platforms:
   - macOS
@@ -15,6 +15,16 @@ platforms:
 > Data is the oil of the 21st century, and analytics is the combustion engine.
 
 — Peter Sondergaard
+
+### Alpha version - free limited to 1 drive
+
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-11.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Apple macos Intel 64 bits</a>
+
+
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-11.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows 64 bits</a>
+
+
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-11.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux 64 bits</a>
 
 ### Features
 
@@ -73,3 +83,4 @@ Whether you're using Windows, macOS, or Linux, event iOS and android, <em>Media 
 
 Some parts.
 
+<a href="https://forum.qi.noematic.eu" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Join the forum</a>
