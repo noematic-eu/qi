@@ -18,13 +18,13 @@ platforms:
 
 ### Alpha version - free limited to 1 drive
 
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-11.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Apple macos Intel 64 bits</a>
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Apple macos Intel 64 bits</a>
 
 
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-11.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows 64 bits</a>
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows 64 bits</a>
 
 
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-11.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux 64 bits</a>
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux 64 bits</a>
 
 ### Features
 
