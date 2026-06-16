@@ -17,7 +17,6 @@
 	"devDependencies": {
 		"@astrojs/rss": "^4.0.18",
 		"@astrojs/sitemap": "^3.7.3",
-		"@astrojs/tailwind": "^5.1.5",
 		"@astropub/md": "^1.0.0",
 		"@tailwindcss/forms": "^0.5.11",
 		"@tailwindcss/typography": "^0.5.20",
