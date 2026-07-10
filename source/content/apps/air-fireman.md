@@ -12,6 +12,11 @@ platforms:
 #appStoreId: 6465745322
 ---
 
+<div class="mb-6 rounded-2xl border border-amber-500/40 bg-amber-50 px-5 py-4 text-amber-950 dark:border-amber-400/30 dark:bg-amber-950/40 dark:text-amber-100">
+  <p class="m-0 font-medium">Godot remaster in development</p>
+  <p class="mt-2 mb-0 text-sm opacity-90">The playable demo below is the 2013 classic (Impact.js). A modern Godot edition is on the way — same levels, updated engine. <a href="https://app.youform.com/forms/4fqdjajy" class="underline hover:no-underline">Stay in the loop</a>.</p>
+</div>
+
 Save the forest from fire with a plane. Wind direction and force has an impact in how you will fight fire.
 
 <br>
