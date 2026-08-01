@@ -6,9 +6,6 @@ isPaid: true
 platforms:
   - macOS
   - Windows
-  - Linux
-  - iOS
-  - android
 mainLinks:
   "Buy remaster — €4.99": "https://payhip.com/buy?link=boOuR"
   "Play free classic": "https://airfireman.noematic.eu"
