@@ -10,9 +10,10 @@ platforms:
   - iOS
   - android
 mainLinks:
-  "Buy remaster — €4.99": "https://payhip.com/b/boOuR"
+  "Buy remaster — €4.99": "https://payhip.com/buy?link=boOuR"
   "Play free classic": "https://airfireman.noematic.eu"
 links:
+  "Payhip product page": "https://payhip.com/b/boOuR"
   "Shop (Noematic)": "https://payhip.com/noematic"
   "Waitlist / feedback": "https://app.youform.com/forms/4fqdjajy"
 ---
@@ -24,7 +25,8 @@ links:
     The free classic (Impact.js, 2013) still runs below in your browser — no install required.
   </p>
   <p class="mt-3 mb-0 flex flex-col sm:flex-row gap-2">
-    <a href="https://payhip.com/b/boOuR" class="inline-block text-center rounded-xl bg-emerald-700 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-800">Buy remaster on Payhip</a>
+    <a href="https://payhip.com/buy?link=boOuR" class="inline-block text-center rounded-xl bg-emerald-700 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-800">Buy remaster — €4.99</a>
+    <a href="https://payhip.com/b/boOuR" class="inline-block text-center rounded-xl border border-emerald-700/40 px-4 py-2 text-sm font-medium hover:bg-emerald-100/50 dark:hover:bg-emerald-900/40">Payhip product page</a>
     <a href="https://airfireman.noematic.eu" class="inline-block text-center rounded-xl border border-emerald-700/40 px-4 py-2 text-sm font-medium hover:bg-emerald-100/50 dark:hover:bg-emerald-900/40">Play free classic</a>
   </p>
 </div>
@@ -51,9 +53,9 @@ Same wildfire fantasy, updated engine:
 - FR / EN interface  
 - Builds: **macOS** (universal) and **Windows** 64-bit  
 
-<a href="https://payhip.com/b/boOuR" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Get on Payhip — €4.99</a>
+<a href="https://payhip.com/buy?link=boOuR" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Buy remaster — €4.99</a>
 
-<p class="text-sm opacity-80">Price is for the remaster download. The browser classic remains free. Also in the <a href="https://payhip.com/noematic">Noematic shop</a>. Optional tip / waitlist still welcome.</p>
+<p class="text-sm opacity-80">Price is for the remaster download. The browser classic remains free. Prefer the listing first? <a href="https://payhip.com/b/boOuR">Payhip product page</a> · <a href="https://payhip.com/noematic">Noematic shop</a>. Optional tip / waitlist still welcome.</p>
 
 ### Controls (remaster defaults)
 

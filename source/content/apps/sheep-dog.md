@@ -8,8 +8,9 @@ platforms:
   - Windows
   - Linux
 mainLinks:
-  "Buy on Payhip — €1.99": "https://payhip.com/b/AI2h7"
+  "Buy now — €1.99": "https://payhip.com/buy?link=AI2h7"
 links:
+  "Payhip product page": "https://payhip.com/b/AI2h7"
   "Shop (Noematic)": "https://payhip.com/noematic"
   "Project notes": "https://git.noematic.eu/baptiste/sheeps"
 ---
@@ -20,8 +21,9 @@ links:
     A short <strong>Godot</strong> desktop game: guide your dog, gather the sheep, close the pen gate, and beat gold / silver / bronze par times.
     Twelve campaign trials (including tutorials) plus endless random maps.
   </p>
-  <p class="mt-3 mb-0">
-    <a href="https://payhip.com/b/AI2h7" class="inline-block text-center rounded-xl bg-lime-700 px-4 py-2 text-sm font-medium text-white hover:bg-lime-800">Buy on Payhip — €1.99</a>
+  <p class="mt-3 mb-0 flex flex-col sm:flex-row sm:items-center gap-2">
+    <a href="https://payhip.com/buy?link=AI2h7" class="inline-block text-center rounded-xl bg-lime-700 px-4 py-2 text-sm font-medium text-white hover:bg-lime-800">Buy now — €1.99</a>
+    <a href="https://payhip.com/b/AI2h7" class="inline-block text-center rounded-xl border border-lime-700/40 px-4 py-2 text-sm font-medium hover:bg-lime-100/50 dark:hover:bg-lime-900/40">Payhip product page</a>
   </p>
 </div>
 
@@ -35,9 +37,9 @@ Sheep Dog is a tiny pastoral score-attack: no farming sim, no multiplayer — ju
 
 Desktop builds for **macOS** and **Windows** (Godot 4). Instant download after purchase.
 
-<a href="https://payhip.com/b/AI2h7" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Payhip — €1.99</a>
+<a href="https://payhip.com/buy?link=AI2h7" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Buy now — €1.99</a>
 
-<p class="text-sm opacity-80">Coffee-level one-time purchase. Also listed in the <a href="https://payhip.com/noematic">Noematic shop</a>.</p>
+<p class="text-sm opacity-80">Coffee-level one-time purchase. Prefer to read the listing first? <a href="https://payhip.com/b/AI2h7">Payhip product page</a> · <a href="https://payhip.com/noematic">Noematic shop</a>.</p>
 
 ### Features
 
