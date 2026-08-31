@@ -1,30 +1,19 @@
 ---
 title: Media Cataloger
-subtitle: Search and Analyse your File Structure Offline
+subtitle: Know where your files live — even when the disk is unplugged
 pubDate: 2025-02-20
 isPaid: true
+showSupportLink: false
 platforms:
   - macOS
-  - iOS
-  - android
   - Linux
   - Windows
-#appStoreId: 6465745322
+redirectUrl: https://noematic.eu/media-cataloger
 ---
 
-> Data is the oil of the 21st century, and analytics is the combustion engine.
+Paid beta **0.2** — licenses by email. The 0.0.1 public zips are retired.
 
-— Peter Sondergaard
-
-### Alpha version - free limited to 1 drive
-
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Apple macos Intel 64 bits</a>
-
-
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows 64 bits</a>
-
-
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux 64 bits</a>
+<a href="https://noematic.eu/media-cataloger" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">See plans &amp; request a license</a>
 
 ### Features
 
@@ -82,5 +71,3 @@ Whether you're using Windows, macOS, or Linux, event iOS and android, <em>Media 
 #### Is it open source?
 
 Some parts.
-
-<a href="https://forum.qi.noematic.eu" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Join the forum</a>
