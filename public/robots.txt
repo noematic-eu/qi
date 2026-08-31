@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qi.noematic.eu/sitemap-index.xml
