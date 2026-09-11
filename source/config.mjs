@@ -6,7 +6,7 @@ export const SITE = {
 	alternateLocale: 'fr',
 	basePathname: '/',
 	title: 'Qi',
-	description: 'Indie apps and games from Noematic — Media Cataloger, Air Fireman, Sheep Dog, PugDB.',
+	description: 'Indie apps and games from Noematic — DiskShelf, Air Fireman, Sheep Dog, PugDB.',
 	defaultOgImage: '/apple-touch-icon.png',
 	blogPostsPerPage: 10,
 };

@@ -1,6 +1,6 @@
 ---
 title: Media Cataloger
-subtitle: Know where your files live — even when the disk is unplugged
+subtitle: Historical 0.0.1 build — Windows, Linux, Mac Intel
 pubDate: 2025-02-20
 isPaid: true
 showSupportLink: false
@@ -11,10 +11,11 @@ platforms:
 ---
 
 <div class="mb-6 rounded-2xl border border-amber-600/40 bg-amber-50 px-5 py-4 text-amber-950 dark:border-amber-400/30 dark:bg-amber-950/40 dark:text-amber-100">
-  <p class="m-0 font-medium">Heads-up before the next version</p>
+  <p class="m-0 font-medium">Historical 0.0.1</p>
   <p class="mt-2 mb-0 text-sm opacity-90">
-    The public build is still <strong>0.0.1</strong> (free, limited to 1 drive). A next version is in preparation. We will warn here before these downloads are replaced.
-    Paid beta 0.2 licenses (by email) are on <a href="https://noematic.eu/media-cataloger">Noematic</a>.
+    The cataloger is now <a href="/diskshelf">DiskShelf</a>. This page keeps the public <strong>0.0.1</strong> zips (free, 1 drive) — Windows, Linux, Mac Intel — until a DiskShelf zip ships.
+    <strong>Any license already emailed</strong> (0.2 beta) and any new request still open DiskShelf <em>and</em> this Go build, not only the Swift Mac app.
+    For a license or the newsletter: <a href="mailto:contact@noematic.eu?subject=DiskShelf">contact us</a> or subscribe below.
   </p>
 </div>
 
@@ -30,7 +31,7 @@ platforms:
 
 ### Features
 
-Media Cataloger list your medias and devices in an offline and local catalog.
+Media Cataloger lists your medias and devices in an offline and local catalog. Same engine as <a href="/diskshelf">DiskShelf</a>.
 
 #### Local and Offline Disk Structure Access
 
@@ -74,12 +75,25 @@ Enjoy faster performance with native multi-processor support, allowing you to ma
 
 #### Cross-Platform Compatibility
 
-Whether you're using Windows, macOS, or Linux, event iOS and android, <em>Media Cataloger</em> works seamlessly across all major platforms.
+Windows, macOS, and Linux. iOS and Android are not part of this offer.
 
+<div id="newsletter">
 
-<a href="https://app.youform.com/forms/18nyuesk" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Stay in the Loop</a>
+<script async data-uid="72cd0a3b7c" src="https://noematic.kit.com/72cd0a3b7c/index.js"></script>
+
+</div>
+
+<a href="mailto:contact@noematic.eu?subject=DiskShelf" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Contact us</a>
 
 ### Frequently Asked Questions {#faq}
+
+#### Will a Media Cataloger license work with DiskShelf?
+
+Yes. **Any request, and any license already emailed** (0.2 beta), opens DiskShelf. Same file. A March buyer is not left out.
+
+#### Does a Windows / Linux license only cover the Swift Mac app?
+
+No. It covers the **Go build** (nmcui) on Windows and Linux, and both Mac apps (Swift + nmcui).
 
 #### Is it open source?
 
