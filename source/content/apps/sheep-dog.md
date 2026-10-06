@@ -93,4 +93,4 @@ Full mini-game at €1.99 on [Payhip](https://payhip.com/b/AI2h7). Feedback welc
 
 #### Related games?
 
-[Air Fireman](/air-fireman) is our wildfire arcade (classic free in browser + Godot remaster). Sheep Dog is a separate cozy title.
+[Air Fireman](/air-fireman) is our wildfire arcade (classic free in browser + Godot remaster). [Cozyplanes](/cozyplanes) is finger-drawn air traffic, free to download. Sheep Dog is a separate cozy title.

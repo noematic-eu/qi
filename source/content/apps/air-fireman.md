@@ -102,3 +102,5 @@ First remaster builds are **macOS** and **Windows**. Linux may follow. Mobile re
 #### Other games?
 
 [Sheep Dog](/sheep-dog) — short cozy herding mini-game (desktop, €1.99 on [Payhip](https://payhip.com/b/AI2h7)).
+
+[Cozyplanes](/cozyplanes) — finger-drawn air traffic, free to download.
