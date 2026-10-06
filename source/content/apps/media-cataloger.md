@@ -1,100 +1,108 @@
 ---
 title: Media Cataloger
-subtitle: Historical 0.0.1 build — Windows, Linux, Mac Intel
+subtitle: Free download — one disk — Windows, Linux, Intel Mac
 pubDate: 2025-02-20
-isPaid: true
+isPaid: false
+pricing: free
 showSupportLink: false
 platforms:
   - macOS
-  - Linux
   - Windows
+  - Linux
+mainLinks:
+  "Contact us": "mailto:contact@noematic.eu?subject=Media%20Cataloger%202"
+links:
+  "Media Cataloger 2": "https://qi.noematic.eu/media-cataloger-2"
 ---
 
 <div class="mb-6 rounded-2xl border border-amber-600/40 bg-amber-50 px-5 py-4 text-amber-950 dark:border-amber-400/30 dark:bg-amber-950/40 dark:text-amber-100">
-  <p class="m-0 font-medium">Historical 0.0.1</p>
+  <p class="m-0 font-medium">Free download, one disk</p>
   <p class="mt-2 mb-0 text-sm opacity-90">
-    The cataloger is now <a href="/diskshelf">DiskShelf</a>. This page keeps the public <strong>0.0.1</strong> zips (free, 1 drive) — Windows, Linux, Mac Intel — until a DiskShelf zip ships.
-    <strong>Any license already emailed</strong> (0.2 beta) and any new request still open DiskShelf <em>and</em> this Go build, not only the Swift Mac app.
-    For a license or the newsletter: <a href="mailto:contact@noematic.eu?subject=DiskShelf">contact us</a> or subscribe below.
+    This page is the free download, limited to one disk — Windows, Linux, Intel Mac. The current version is <a href="/media-cataloger-2">Media Cataloger 2</a>.
+    A license already emailed to you still works there. The list for 15 October is on that page. <a href="mailto:contact@noematic.eu?subject=Media%20Cataloger%202">Write to us</a> if you need the file again.
   </p>
 </div>
 
-### Alpha version — free, limited to 1 drive
+### Version 0.0.1 — free, limited to 1 drive
 
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Apple macos Intel 64 bits</a>
-
-
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows 64 bits</a>
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Mac Intel</a>
 
 
-<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux 64 bits</a>
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows</a>
+
+
+<a href="/apps/media-cataloger/MediaCataloger-0.0.1-12.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux</a>
+
+Media Cataloger 0.0.1 lists your disks in a local catalog. Once a volume is indexed, you browse its tree, search files, and see what uses space — even when the disk is unplugged. Not a DAM, not iTunes, not an EXIF editor, not a backup tool: a shelf.
+
+Free, limited to one disk: Intel Mac, Windows, Linux. <a href="/media-cataloger-2">Media Cataloger 2</a> is the current version.
 
 ### Features
 
-Media Cataloger lists your medias and devices in an offline and local catalog. Same engine as <a href="/diskshelf">DiskShelf</a>.
+#### Local and offline disk structure
 
-#### Local and Offline Disk Structure Access
+Even disconnected, you can view the folder tree, modification dates, and sizes.
 
-Even when a disk isn’t connected, you can view its structure, browse its contents, and access detailed file information like modification dates and sizes.
+#### Instant disk overview
 
-#### Instant Disk Overview
+Free space at a glance.
 
-Quickly check how much free space is available on each drive at a glance, including local and remote disks.
+#### Visualize disk space consumption
 
-#### Visualize Disk Space Consumption
-
-See which folders and files take up the most space with intuitive visualizations showing the percentage of disk usage, so you can make informed decisions on what to keep or remove.
+See which folders and files take up the most space, so you can decide what to keep.
 
 #### File search
 
-Easily locate files by extension or name across all your cataloged drives—whether they are connected or not.
+By name or extension, on this one disk — connected or not.
 
-#### Catalog disks from anywhere with SSH
+#### Duplicate file detection
 
-Using the Secure Shell protocol, Media Cataloger is able to catalog medias from remote computers.
+Copies on this same disk. Copies across several disks are in [Media Cataloger 2](/media-cataloger-2).
 
-#### Duplicate File Detection
+#### Customizable duplicate lists
 
-Effortlessly find duplicate files within the same disk or across multiple disks, helping you to save space and organize files better.
+By subject, owner, or any criteria you choose.
 
-#### Customizable Duplicate Lists
+#### Unique file finder
 
-Organize duplicates by subject, owner, or any criteria you choose.
+A file that appears once on this disk. Looking across disks is in [Media Cataloger 2](/media-cataloger-2).
 
-#### Unique File Finder
+#### Remove unnecessary duplicates
 
-Identify files that exist only on one disk and are not duplicated elsewhere.
+Free space by taking out redundant copies.
 
-#### Remove Unnecessary Duplicates
+#### Large catalogs
 
-Free up disk space by easily removing redundant copies of files.
+A large catalog stays usable.
 
-#### Optimized for Multi-Processors
-
-Enjoy faster performance with native multi-processor support, allowing you to manage large file catalogs with ease.
-
-#### Cross-Platform Compatibility
+#### Cross-platform
 
 Windows, macOS, and Linux. iOS and Android are not part of this offer.
 
-<div id="newsletter">
-
-<script async data-uid="72cd0a3b7c" src="https://noematic.kit.com/72cd0a3b7c/index.js"></script>
-
-</div>
-
-<a href="mailto:contact@noematic.eu?subject=DiskShelf" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Contact us</a>
+The list for 15 October, and a way to write to us, are on <a href="/media-cataloger-2">Media Cataloger 2</a>.
 
 ### Frequently Asked Questions {#faq}
 
-#### Will a Media Cataloger license work with DiskShelf?
+#### Media Cataloger or Media Cataloger 2?
 
-Yes. **Any request, and any license already emailed** (0.2 beta), opens DiskShelf. Same file. A March buyer is not left out.
+**One product line, two pages.** This page is the free download, limited to one disk. <a href="/media-cataloger-2">Media Cataloger 2</a> is the download planned for 15 October 2026. You are not buying two apps.
 
-#### Does a Windows / Linux license only cover the Swift Mac app?
+#### I already have a license?
 
-No. It covers the **Go build** (nmcui) on Windows and Linux, and both Mac apps (Swift + nmcui).
+Yes. The file we already emailed still works. Paste it once in the 15 October app.
+
+#### Does one file work on Mac, Windows, and Linux?
+
+Yes, in the 15 October app. This page stays the free download, limited to one disk.
+
+#### I use a Mac. Which download reads the license?
+
+The 15 October download, on <a href="/media-cataloger-2">Media Cataloger 2</a>. This page is the older free download, for Intel Macs, limited to one disk.
 
 #### Is it open source?
 
-Some parts.
+Some parts. Media Cataloger 2 is a Noematic app. This free download is public.
+
+#### Does it need the internet?
+
+Not to catalog, search, or find duplicates. Everything stays on your machine.

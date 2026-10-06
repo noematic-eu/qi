@@ -1,40 +1,45 @@
 ---
-title: How to Organize Your Digital Media Efficiently with MediaCataloger
-description: Your collection of photos, videos, music, documents, and other digital files accumulates at a dizzying pace. Without rigorous organization, finding that magical moment captured during your last vacation, that song you love so much, or that important document can become a real puzzle. This is where MediaCataloger comes into play, specifically designed to transform your media and file management into a simple and enjoyable task.
+title: How to find a file when the drives pile up
+description: Photos, videos, music, and documents end up on several disks. A local catalog lets you browse the tree, search by name or extension, and see duplicates — even when the drive is unplugged.
 pubDate: 2024-12-30
 tags:
   - files
   - management
 ---
 
-## Why Good Organization is Essential
+## Why it helps to know where files are
 
-Before diving into solutions, it's crucial to understand the benefits of meticulous organization:
+Before the tool, the gain is simple:
 
- - **Quick Access:** Find what you're looking for with just a few clicks, without searching for hours.
- - **Preservation:** Ensure better preservation of your media by knowing exactly where each file is stored.
- - **Simplified Sharing:** Sharing memories, projects, or documents becomes easier when your files are well-organized.
- - **Efficiency:** Save time and reduce the stress associated with file management.
+ - **Access:** find a file without plugging drives in one by one.
+ - **Space:** see which folders fill the volume, and which copies already exist elsewhere.
+ - **Later:** keep a record of a drive in the vault, not only of the one that is mounted.
 
-## MediaCataloger's Approach
+## What Media Cataloger 2 does
 
-MediaCataloger is your ally for organizing not only your digital media but also all types of files:
+[Media Cataloger 2](/media-cataloger-2) lists your disks in a local catalog. Once a volume is indexed, you browse its tree even when it is unplugged.
 
- - **Intelligent Cataloging:** Instead of just storing files, MediaCataloger creates catalogs where each file, whether it's a photo, video, audio file, PDF document, or text file, can be tagged, categorized, and annotated. For example, tag a photo with locations, people present, and even the emotions it evokes, or index a document by its content, author, or creation date.
- - **Powerful Search:** Thanks to advanced search algorithms, find your files using simple or complex criteria. Search by name, date, tag, file type, or even by the textual content of documents.
- - **Intuitive Interface:** Designed for all user levels, MediaCataloger's interface makes organization accessible and enjoyable. Drag-and-drop, grid or list views, and navigation tools greatly facilitate the management of your library.
- - **Compatibility and Flexibility:** MediaCataloger works with various media and document formats and can be used across multiple devices, ensuring your organization remains consistent no matter where you work.
+ - **Offline:** folders, modification dates, and sizes, whether the disk is connected or not. Free space on local and remote volumes is visible at a glance.
+ - **What uses space:** which folders and files take up the most room.
+ - **Search:** by name or extension, across every catalogued drive.
+ - **Duplicates:** copies on one disk or across several, lists by subject or owner, files that exist in only one place.
+ - **SSH:** catalog the disks of a remote computer.
+ - **On your machine:** cataloging, search, and duplicates do not need the internet.
 
-## Steps to Organize Your Media with MediaCataloger
+Not a DAM, not iTunes, not an EXIF editor, not a backup tool. No tags, no search inside document text, no collection sharing.
 
-1. **Importation:** Start by importing your various file types into MediaCataloger. The tool will scan entire folders and proceed with indexing.
-1. **Tagging and Categorization:** Use the tagging features to add custom metadata. Categorize your files by themes, projects, or events.
-1. **Metadata Optimization:** For photos, videos, and documents, MediaCataloger can extract and optimize existing metadata (date, location, author) for better organization.
-1. **Searches and Reviews:** Regularly perform searches to check the effectiveness of your system. Adjust tags or categories if necessary.
-1. **Sharing and Backup:** Once your files are well-organized, use MediaCataloger to share specific collections or to set up automatic backups.
+On macOS, two apps, one engine: Swift + nmcd (native) and nmcui (Go / Fyne). On Windows and Linux, the Go build. The emailed license is pasted into the 15 October download. The native Mac app does not read that file yet.
 
-## Conclusion
+## Steps
 
-With [MediaCataloger](/media-cataloger), not only do you maintain control over your digital media collection and important documents, but you also transform this task into an enriching experience. Whether you're a photography enthusiast, cinephile, musician, or a professional requiring efficient document management, [MediaCataloger](/media-cataloger) is the tool that meets your organizational needs.
+1. **Index a volume.** Folder walks run in parallel.
+2. **Read it later.** The tree and the space report stay available with the disk unplugged.
+3. **Search** by name or extension.
+4. **Spot** duplicates and unique files, then remove the extra copies if you decide to.
+5. **Another machine:** catalog its disks over SSH.
 
-<a href="https://app.youform.com/forms/18nyuesk" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Sign up today to receive the availability date for this tool!</a>
+## The two pages
+
+[Media Cataloger 2](/media-cataloger-2) is the current version (0.2 beta). There is no public zip yet. The **0.0.1** zips, free and limited to 1 drive (Mac Intel, Windows, Linux), stay on [Media Cataloger](/media-cataloger). A license already emailed is pasted into the 15 October download. The native Mac app does not read that file yet.
+
+<a href="/media-cataloger-2" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">See Media Cataloger 2</a>
