@@ -15,7 +15,7 @@ platforms:
 <div class="mb-6 rounded-2xl border border-sky-600/40 bg-sky-50 px-5 py-4 text-sky-950 dark:border-sky-400/30 dark:bg-sky-950/40 dark:text-sky-100">
   <p class="m-0 font-medium">Free — browser, Mac, Linux, and Windows</p>
   <p class="mt-2 mb-0 text-sm opacity-90">
-    Version 1.0. Play it on this page. The in-game text is French.
+    Version 1.0. Play it on this page. English or French, from the menu.
   </p>
 </div>
 
