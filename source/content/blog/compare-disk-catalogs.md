@@ -2,6 +2,7 @@
 title: Media Cataloger and the other disk catalogs
 description: Find a file on a disk that is unplugged. What Media Cataloger does, next to WinCatalog, NeoFinder, DiskCatalogMaker, and VVV. Reviewed 29 September 2026.
 pubDate: 2026-09-29
+alternateSlug: comparer-les-catalogues-de-disques
 tags:
   - files
   - management

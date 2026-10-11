@@ -2,6 +2,7 @@
 title: I Can't Find My Files When I Need Them
 description: Application of the 5 Whys Method
 pubDate: 2024-12-31
+alternateSlug: je-ne-trouve-pas-mon-fichier
 tags:
   - files
   - management

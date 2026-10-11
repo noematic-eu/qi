@@ -2,6 +2,7 @@
 title: From JavaScript in the browser to native Godot games
 description: Air Fireman, first shipped in 2013 with Impact.js, now has a paid Godot remaster. itch.io includes Linux with macOS and Windows. Payhip is macOS and Windows. Sheep Dog joins it as a short native cozy title. The free classic stays online.
 pubDate: 2026-08-01
+alternateSlug: des-jeux-javascript-aux-versions-natives-godot
 tags:
   - programming
   - javascript

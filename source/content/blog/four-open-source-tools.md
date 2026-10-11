@@ -2,6 +2,7 @@
 title: "Four open-source tools — ku, Taurus, Comptoir, proqcm"
 description: "Since the Godot remaster, four MIT tools joined the catalog: a sysadmin TUI, a zipped-site player, a once-a-day city RPG, and Markdown quizzes for Socrative."
 pubDate: 2026-09-09
+alternateSlug: quatre-outils-open-source
 tags:
   - programming
   - open-source

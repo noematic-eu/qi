@@ -2,6 +2,7 @@
 title: How to find a file when the drives pile up
 description: Photos, videos, music, and documents end up on several disks. A local catalog lets you browse the tree, search by name or extension, and see duplicates — even when the drive is unplugged.
 pubDate: 2024-12-30
+alternateSlug: organiser-vos-medias-efficacement
 tags:
   - files
   - management
