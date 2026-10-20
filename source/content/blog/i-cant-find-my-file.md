@@ -32,6 +32,6 @@ Copies on one disk or across several. Lists by subject, owner, or another criter
 
 Cataloging, search, and duplicates do not need the internet. The catalog is not sent to a server.
 
-[Media Cataloger 2](/media-cataloger-2) is the current version. On macOS: Swift + nmcd and nmcui. On Windows and Linux: the Go build. The emailed license is pasted into the 15 October download. The native Mac app does not read that file yet. The public 0.0.1 zips, free and limited to 1 drive, stay on [Media Cataloger](/media-cataloger).
+[Media Cataloger 2](/media-cataloger-2) is the current version. On macOS: Swift + nmcd and nmcui. On Windows and Linux: the Go build. The emailed license is pasted into the 1 November download. The native Mac app does not read that file yet. The public 0.0.1 zips, free and limited to 1 drive, stay on [Media Cataloger](/media-cataloger).
 
 <a href="/media-cataloger-2" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">See Media Cataloger 2</a>

@@ -29,7 +29,7 @@ Before the tool, the gain is simple:
 
 Not a DAM, not iTunes, not an EXIF editor, not a backup tool. No tags, no search inside document text, no collection sharing.
 
-On macOS, two apps, one engine: Swift + nmcd (native) and nmcui (Go / Fyne). On Windows and Linux, the Go build. The emailed license is pasted into the 15 October download. The native Mac app does not read that file yet.
+On macOS, two apps, one engine: Swift + nmcd (native) and nmcui (Go / Fyne). On Windows and Linux, the Go build. The emailed license is pasted into the 1 November download. The native Mac app does not read that file yet.
 
 ## Steps
 
@@ -41,6 +41,6 @@ On macOS, two apps, one engine: Swift + nmcd (native) and nmcui (Go / Fyne). On 
 
 ## The two pages
 
-[Media Cataloger 2](/media-cataloger-2) is the current version (0.2 beta). There is no public zip yet. The **0.0.1** zips, free and limited to 1 drive (Mac Intel, Windows, Linux), stay on [Media Cataloger](/media-cataloger). A license already emailed is pasted into the 15 October download. The native Mac app does not read that file yet.
+[Media Cataloger 2](/media-cataloger-2) is the current version (0.2 beta). There is no public zip yet. The **0.0.1** zips, free and limited to 1 drive (Mac Intel, Windows, Linux), stay on [Media Cataloger](/media-cataloger). A license already emailed is pasted into the 1 November download. The native Mac app does not read that file yet.
 
 <a href="/media-cataloger-2" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">See Media Cataloger 2</a>

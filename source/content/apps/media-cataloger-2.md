@@ -4,14 +4,14 @@ subtitle: Find a folder on a disk that is back in the drawer
 pubDate: 2026-09-11
 isPaid: true
 pricing: building
-badge: 15 October
+badge: 1 November
 showSupportLink: false
 platforms:
   - macOS
   - Windows
   - Linux
 mainLinks:
-  "The 15 October list": "https://qi.noematic.eu/media-cataloger-2#newsletter"
+  "The 1 November list": "https://qi.noematic.eu/media-cataloger-2#newsletter"
 links:
   "Media Cataloger (0.0.1)": "https://qi.noematic.eu/media-cataloger"
 ---
@@ -24,13 +24,13 @@ links:
   </p>
 </div>
 
-### 15 October 2026
+### 1 November 2026
 
 Today, <a href="/media-cataloger">Media Cataloger 0.0.1</a> is a free download, limited to one disk.
 
-On <strong>15 October 2026</strong> there is one download for everyone: Mac, Windows, and Linux. The license is a file we email. You paste it once. That file lets you add a disk and look for copies. The price is published with that download.
+On <strong>1 November 2026</strong> there is one download for everyone: Mac, Windows, and Linux. The license is a file we email. You paste it once. That file lets you add a disk and look for copies. The price is published with that download.
 
-On Mac, the app that looks like a normal Mac app does not read this file yet. The 15 October download does.
+On Mac, the app that looks like a normal Mac app does not read this file yet. The 1 November download does.
 
 ### The list
 
@@ -40,7 +40,7 @@ On Mac, the app that looks like a normal Mac app does not read this file yet. Th
 
 </div>
 
-The list is how you receive the 15 October file. <a href="mailto:contact@noematic.eu?subject=Media%20Cataloger%202">Write to us</a> if we already emailed you a license: the same file still works.
+The list is how you receive the 1 November file. <a href="mailto:contact@noematic.eu?subject=Media%20Cataloger%202">Write to us</a> if we already emailed you a license: the same file still works.
 
 ### Features
 
@@ -90,19 +90,19 @@ Windows, macOS, and Linux. iOS and Android are not part of this offer.
 
 #### Media Cataloger or Media Cataloger 2?
 
-**One product line, two pages.** <a href="/media-cataloger">Media Cataloger</a> is the free download, limited to one disk, available now. Media Cataloger 2 is the download planned for **15 October 2026**. You are not buying two apps.
+**One product line, two pages.** <a href="/media-cataloger">Media Cataloger</a> is the free download, limited to one disk, available now. Media Cataloger 2 is the download planned for **1 November 2026**. You are not buying two apps.
 
 #### I already have a license?
 
-Yes. The file we already emailed still works. Paste it once in the 15 October app. On Mac, the app that looks like a normal Mac app does not read it yet.
+Yes. The file we already emailed still works. Paste it once in the 1 November app. On Mac, the app that looks like a normal Mac app does not read it yet.
 
 #### Does one file work on Mac, Windows, and Linux?
 
-Yes, in the 15 October app. The free download stays on <a href="/media-cataloger">Media Cataloger</a>, limited to one disk.
+Yes, in the 1 November app. The free download stays on <a href="/media-cataloger">Media Cataloger</a>, limited to one disk.
 
 #### I use a Mac. Which download reads the license?
 
-The 15 October download. The other Mac app is still being finished and does not read the file yet. The free download is the older one, for Intel Macs, limited to one disk.
+The 1 November download. The other Mac app is still being finished and does not read the file yet. The free download is the older one, for Intel Macs, limited to one disk.
 
 #### Is it open source?
 

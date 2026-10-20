@@ -19,7 +19,7 @@ links:
   <p class="m-0 font-medium">Free download, one disk</p>
   <p class="mt-2 mb-0 text-sm opacity-90">
     This page is the free download, limited to one disk — Windows, Linux, Intel Mac. The current version is <a href="/media-cataloger-2">Media Cataloger 2</a>.
-    A license already emailed to you still works there. The list for 15 October is on that page. <a href="mailto:contact@noematic.eu?subject=Media%20Cataloger%202">Write to us</a> if you need the file again.
+    A license already emailed to you still works there. The list for 1 November is on that page. <a href="mailto:contact@noematic.eu?subject=Media%20Cataloger%202">Write to us</a> if you need the file again.
   </p>
 </div>
 
@@ -79,25 +79,25 @@ A large catalog stays usable.
 
 Windows, macOS, and Linux. iOS and Android are not part of this offer.
 
-The list for 15 October, and a way to write to us, are on <a href="/media-cataloger-2">Media Cataloger 2</a>.
+The list for 1 November, and a way to write to us, are on <a href="/media-cataloger-2">Media Cataloger 2</a>.
 
 ### Frequently Asked Questions {#faq}
 
 #### Media Cataloger or Media Cataloger 2?
 
-**One product line, two pages.** This page is the free download, limited to one disk. <a href="/media-cataloger-2">Media Cataloger 2</a> is the download planned for 15 October 2026. You are not buying two apps.
+**One product line, two pages.** This page is the free download, limited to one disk. <a href="/media-cataloger-2">Media Cataloger 2</a> is the download planned for 1 November 2026. You are not buying two apps.
 
 #### I already have a license?
 
-Yes. The file we already emailed still works. Paste it once in the 15 October app.
+Yes. The file we already emailed still works. Paste it once in the 1 November app.
 
 #### Does one file work on Mac, Windows, and Linux?
 
-Yes, in the 15 October app. This page stays the free download, limited to one disk.
+Yes, in the 1 November app. This page stays the free download, limited to one disk.
 
 #### I use a Mac. Which download reads the license?
 
-The 15 October download, on <a href="/media-cataloger-2">Media Cataloger 2</a>. This page is the older free download, for Intel Macs, limited to one disk.
+The 1 November download, on <a href="/media-cataloger-2">Media Cataloger 2</a>. This page is the older free download, for Intel Macs, limited to one disk.
 
 #### Is it open source?
 

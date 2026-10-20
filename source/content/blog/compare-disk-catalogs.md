@@ -22,7 +22,7 @@ This page starts from an older comparison, reviewed on 29 September 2026. Severa
 - Show the interface in French.
 - Run on Mac, Windows, and Linux.
 
-Phones are not part of this offer. The product reads the date and the camera of photos, so you can find them. It does not read the place, or the title and artist of songs. Today the free download is limited to one disk. On 15 October 2026 the price is published with the download. [Media Cataloger 2](/media-cataloger-2).
+Phones are not part of this offer. The product reads the date and the camera of photos, so you can find them. It does not read the place, or the title and artist of songs. Today the free download is limited to one disk. On 1 November 2026 the price is published with the download. [Media Cataloger 2](/media-cataloger-2).
 
 ## The same job, elsewhere
 
@@ -39,7 +39,7 @@ Phones are not part of this offer. The product reads the date and the camera of 
 | Labels from the picture | yes | yes, a model on the computer | no | no | no |
 | Camera data, music | date and camera | yes | yes | in part | music |
 | Another computer | yes | a folder already connected | a folder already connected | a network folder | a folder already connected |
-| Price | published on 15 October. Free: one disk | one purchase, about $50 for personal use | one purchase | one purchase | free |
+| Price | published on 1 November. Free: one disk | one purchase, about $50 for personal use | one purchase | one purchase | free |
 
 WinCatalog 2026 is at version 2026.3.1 (August 2026), with a 30-day trial. DiskCatalogMaker shows a French interface and an evaluation period. VVV is free and open.
 
