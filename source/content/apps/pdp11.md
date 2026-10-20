@@ -26,9 +26,9 @@ mainLinks:
 
 <a href="/apps/pdp11/play/index.html" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Full screen</a>
 
-PDP-11 is a game for learning the front-panel gesture, not for booting Unix. The lessons follow an operator’s order: switches, LOAD ADRS, EXAM, DEP, ENABLE, START, CONT. The panel labels stay in DEC’s English. The sheet beside them is in English on this site.
+PDP-11 is a game for learning the front-panel gesture. The lessons follow an operator’s order: switches, LOAD ADRS, EXAM, DEP, ENABLE, START, CONT. The panel labels stay in DEC’s English. The sheet beside them is in English on this site.
 
-The course is nine chapters, from the first bit to a loop. Then the panel is free, with three challenges. Progress stays in this browser.
+Any chapter opens directly, then any step, without replaying the start. After the loop, Paul Nankervis’s RK05 bootstrap is there to deposit. The Unix V5 session (cat, who, ls, cal, bas, cc, fc) is replayed on a teletype: this school has no disk. Then the panel is free, with three challenges. Progress stays in this browser.
 
 This is not the full emulator. No bytes, no peripherals, no operating system. Paul Nankervis’s PDP-11/70, the one that runs Unix, RT-11, and RSTS, is linked inside the game.
 
