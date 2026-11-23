@@ -66,7 +66,8 @@
       "enum": [
         "paid",
         "free",
-        "building"
+        "building",
+        "beta"
       ]
     },
     "badge": {

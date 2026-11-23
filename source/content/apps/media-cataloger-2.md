@@ -3,8 +3,8 @@ title: Media Cataloger 2
 subtitle: Find a folder on a disk that is back in the drawer
 pubDate: 2026-09-11
 isPaid: true
-pricing: building
-badge: 1 November
+pricing: beta
+badge: beta 1
 showSupportLink: false
 platforms:
   - macOS
@@ -24,13 +24,15 @@ links:
   </p>
 </div>
 
-### 1 November 2026
+### Beta 1 — 2.0.0-beta.1
 
-Today, <a href="/media-cataloger">Media Cataloger 0.0.1</a> is a free download, limited to one disk.
+<div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-8">
+  <a href="/apps/media-cataloger-2/MediaCataloger-2.0.0-beta.1-8.app.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">macOS</a>
+  <a href="/apps/media-cataloger-2/MediaCataloger-2.0.0-beta.1-8.exe.zip" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Windows</a>
+  <a href="/apps/media-cataloger-2/MediaCataloger-2.0.0-beta.1-8.tar.xz" class="btn text-white border border-primary-600/30 bg-primary-600/90 dark:bg-primary-800/80 hover:bg-primary-800 hover:border-primary-800 sm:mb-0 px-8 py-3 w-full rounded-3xl">Linux</a>
+</div>
 
-On <strong>1 November 2026</strong> there is one download for everyone: Mac, Windows, and Linux. The license is a file we email. You paste it once. That file lets you add a disk and look for copies. The price is published with that download.
-
-On Mac, the app that looks like a normal Mac app does not read this file yet. The 1 November download does.
+Beta 1 is the full app: multiple disks, duplicate detection, license file. A license already emailed to you works here. This is a pre-release; expect rough edges.
 
 ### The list
 
